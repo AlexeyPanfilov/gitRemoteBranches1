@@ -5,6 +5,6 @@ public class Sales {
     }
 
     public void productSales () {
-
+        System.out.println("Мега продажа");
     }
 }
