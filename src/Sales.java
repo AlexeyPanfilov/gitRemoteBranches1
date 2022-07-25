@@ -4,7 +4,7 @@ public class Sales {
         System.out.println("Demo script");
     }
 
-    public void sales () {
-        
+    public void productSales () {
+
     }
 }
